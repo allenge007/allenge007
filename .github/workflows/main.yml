@@ -22,6 +22,10 @@ jobs:
       - name: Generate file tree text
         run: tree -a > tree.txt
 
+      - name: Remove ImageMagick policy restrictions
+        run: |
+          sudo sed -i 's/<policy domain="coder" rights="none" pattern="@.*"\/>/<policy domain="coder" rights="read|write" pattern="@.*"\/>/g' /etc/ImageMagick-6/policy.xml
+
       - name: Convert file tree text to image
         run: |
           mkdir -p report
