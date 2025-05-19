@@ -1,4 +1,4 @@
-# This is [my blog](allenge007.github.io/my_blog).
+# This is [my blog](https://allenge007.github.io/My_Blog/).
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/light_card.svg" width="400" alt="图片1">
