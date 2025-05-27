@@ -1,8 +1,6 @@
 <div align="center">
-  
-# 👋 Hi there, I'm allenge007!
 
-### 🌟 Welcome to my GitHub Profile!
+# 🌟 Welcome to my GitHub Profile!
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://allenge007.github.io/My_Blog/">
@@ -43,15 +41,16 @@
 </div>
 
 <!-- 第二行：两张卡片 -->
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 15px;">
-  <picture style="flex: 1; margin: 0 5px;">
+<!-- 第二行：两张卡片 -->
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <picture style="flex: 1; margin: 0 2px;">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" style="object-fit: contain; height: 180px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" style="object-fit: contain; height: 150px; width: 100%;">
   </picture>
   
-  <picture style="flex: 1; margin: 0 5px;">
+  <picture style="flex: 1; margin: 0 2px;">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=allenge007&theme=dark&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenge007&theme=light&hide_border=true" alt="GitHub Streak" style="object-fit: contain; height: 180px; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenge007&theme=light&hide_border=true" alt="GitHub Streak" style="object-fit: contain; height: 150px; width: 100%;">
   </picture>
 </div>
 
