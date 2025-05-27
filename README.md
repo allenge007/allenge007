@@ -47,7 +47,7 @@
 <br>
 
 <picture style="max-width: 600px;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/dark_card.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/light_card.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/light_card.svg" alt="Codeforces Stats" style="width: 50%; height: autu ;">
 </picture>
 
