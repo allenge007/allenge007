@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🌟 Welcome to my GitHub Profile!
+<h1 align="center"> 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=30BB61&center=true&width=435&lines=Here+is+allenge007;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+
+</div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://allenge007.github.io/My_Blog/">
@@ -16,10 +20,9 @@
 
 ## 🚀 About Me
 
-- 🌱 **Learning**: Advanced data structures and competitive programming
-- 💬 **Ask me about**: Programming, algorithms, and software development
-- 📝 **I regularly write articles on**: [My Blog](https://allenge007.github.io/My_Blog/)
-- ⚡ **Fun fact**: I love solving coding challenges and sharing knowledge!
+- **Learning**: Advanced data structures and competitive programming
+- **Ask me about**: Programming, algorithms, and software development
+- **I regularly write articles on**: [My Blog](https://allenge007.github.io/My_Blog/)
 
 ---
 
