@@ -23,36 +23,30 @@
 
 ---
 
-## 📊 Some Statistics
+## 📊 Statistics
 
 <div align="center">
 
-<!-- 第一行：两张卡片 -->
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <picture style="flex: 1; margin: 0 5px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/dark_card.svg">
-    <img src="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/light_card.svg" alt="Codeforces Stats" style="object-fit: contain; height: 180px; width: 100%;">
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <picture style="flex: 1; min-width: 300px; margin: 10px 5px;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" style="object-fit: contain; height: 200px; width: 100%;">
   </picture>
   
-  <picture style="flex: 1; margin: 0 5px;">
+  <picture style="flex: 1; min-width: 300px; margin: 10px 5px;">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=allenge007&theme=dark&layout=donut&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenge007&theme=light&layout=donut&hide_border=true" alt="Top Languages" style="object-fit: contain; height: 180px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenge007&theme=light&layout=donut&hide_border=true" alt="Top Languages" style="object-fit: contain; height: 200px; width: 100%;">
   </picture>
+  
 </div>
 
-<!-- 第二行：两张卡片 -->
-<!-- 第二行：两张卡片 -->
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-  <picture style="flex: 1; margin: 0 2px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" style="object-fit: contain; height: 150px; width: 100%;">
-  </picture>
-  
-  <picture style="flex: 1; margin: 0 2px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=allenge007&theme=dark&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenge007&theme=light&hide_border=true" alt="GitHub Streak" style="object-fit: contain; height: 150px; width: 100%;">
-  </picture>
-</div>
+<!-- Codeforces 卡片单独放置 -->
+<br>
+
+<picture style="max-width: 600px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/dark_card.svg">
+  <img src="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/light_card.svg" alt="Codeforces Stats" style="width: 50%; height: autu ;">
+</picture>
 
 </div>
 
